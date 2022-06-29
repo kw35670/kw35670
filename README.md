@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-## :information_source: Information
+## 👨🏻‍🎓 Information
 情報系の大学に所属している大学生です。  
-ITパスポート、基本情報技術者試験を取得済み。  
 HTML5、CSS3、SCSS、JavaScriptなどが使えます。  
-現在はJavaやPHPを学習中です。
+現在はJavaやPHPを学習中です。　　
 
-## :clipboard: Status
+## 📝 Certification
+<li>ITパスポート</li>
+<li>基本情報技術者試験</li>
+
+## ⚖️ Status
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kw35670">
 </a>
