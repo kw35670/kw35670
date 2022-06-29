@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## 👨🏻‍🎓 基本情報
 情報系の大学に所属している大学生です。  
 HTML5、CSS3、SCSS、JavaScriptなどが使えます。  
