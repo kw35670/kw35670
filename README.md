@@ -1,21 +1,30 @@
 ### Hi there 👋
 
-<!--
-**kw35670/kw35670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://github.com/yutkat/yutkat/">
+    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
+  </a>
+  <a href="http://twitter.com/yutkat">
+    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/yutkat">
+    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://www.reddit.com/user/yutkat">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" />
+  </a>
+  <a href="https://stackoverflow.com/users/5720201/yutkat">
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
+  </a>
+  <a href="http://qiita.com/yutkat">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
+  </a>
+  <//qiita.com/yutkat">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Metrics](https://metrics.lecoq.io/kw35670?template=classic&isocalendar=1&languages=1&habits=1&repositories=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&config.timezone=Asia%2FTokyo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kw35670
 )](https://github.com/anuraghazra/github-readme-stats)
