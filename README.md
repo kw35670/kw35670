@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-
+## :information_source: Information
+🐧name：　kawaguchi riku
+🕶age: 20
 
 
 ## :clipboard: Status
