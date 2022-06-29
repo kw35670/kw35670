@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ## :information_source: Information
-
+情報系の大学に所属している大学生です。
+HTML5、CSS3、SCSS、JavaScriptなどが使えます。
+現在はJavaやPHPを学習中です。
 
 ## :clipboard: Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kw35670
