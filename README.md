@@ -2,6 +2,7 @@
 
 ## :information_source: Information
 情報系の大学に所属している大学生です。  
+ITパスポート、基本情報技術者試験を取得済み。  
 HTML5、CSS3、SCSS、JavaScriptなどが使えます。  
 現在はJavaやPHPを学習中です。
 
