@@ -4,8 +4,8 @@ HTML5、CSS3、SCSS、JavaScriptなどが使えます。
 現在はJavaやPHPを学習中です。　　
 
 ## 📝 保有資格
-<li>ITパスポート</li>
-<li>基本情報技術者試験</li>
++ ITパスポート
++ 基本情報技術者試験
 
 ## ⚖️ 学習履歴
 <a href="https://github.com/anuraghazra/github-readme-stats">
