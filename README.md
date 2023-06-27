@@ -6,6 +6,7 @@ HTML5、CSS3、SCSS、JavaScriptなどが使えます。
 ## 📝 保有資格
 + ITパスポート
 + 基本情報技術者試験
++ Oracle Java Silver
 
 ## ⚖️ 学習履歴
 <a href="https://github.com/anuraghazra/github-readme-stats">
