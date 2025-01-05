@@ -6,7 +6,7 @@ Webエンジニアの転職を目指して日々勉強しています。
 ## 📝 保有資格
 + ITパスポート
 + 基本情報技術者試験
-+ Oracle Java Silver
++ Oracle Certified Java Programmer, Silver SE 11
 + AWS Certified Cloud Practitioner (CLF-C02)
 + AWS Certified Solution Architect Associate (SAA-C03)
 
