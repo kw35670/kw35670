@@ -1,12 +1,14 @@
 ## 👨🏻‍🎓 自己紹介
-情報系の大学に所属している大学生です。  
+社会人一年目の新米エンジニアです。
 HTML5、CSS3、SCSS、JavaScriptなどが使えます。  
-現在はJavaを学習中です。　　
+Webエンジニアの転職を目指して日々勉強しています。
 
 ## 📝 保有資格
 + ITパスポート
 + 基本情報技術者試験
 + Oracle Java Silver
++ AWS CLF
++ AWS SAA
 
 ## ⚖️ 学習履歴
 <a href="https://github.com/anuraghazra/github-readme-stats">
