@@ -6,10 +6,10 @@ Webエンジニアの転職を目指して日々勉強しています。
 + ITパスポート
 + 基本情報技術者試験
 + Oracle Certified Java Programmer, Silver SE 11
-+ AWS Certified Cloud Practitioner (CLF-C02)
-+ AWS Certified Solution Architect Associate (SAA-C03)
 + Oracle Cloud Infrastructure 2024 Certified Foundations Associate
 + Oracle Cloud Infrastructure 2024 Certified Architect Associate
++ AWS Certified Cloud Practitioner (CLF-C02)
++ AWS Certified Solution Architect Associate (SAA-C03)
 
 ## ⚖️ 学習履歴
 <a href="https://github.com/anuraghazra/github-readme-stats">
