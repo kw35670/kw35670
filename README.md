@@ -5,6 +5,7 @@ Webエンジニアの転職を目指して日々勉強しています。
 ## 📝 保有資格
 + ITパスポート
 + 基本情報技術者
++ タイピング技能検定 ２級
 + Oracle Certified Java Programmer, Silver SE 11
 + Oracle Cloud Infrastructure 2024 Certified Foundations Associate
 + Oracle Cloud Infrastructure 2024 Certified Architect Associate
